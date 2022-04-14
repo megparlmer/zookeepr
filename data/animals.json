@@ -102,6 +102,24 @@
     },
     {
       "id": "10"
+    },
+    {
+      "name": "Monkey",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Monkey",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
