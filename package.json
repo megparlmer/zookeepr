@@ -11,7 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/megparlmer/zookeepr.git"
   },
-  "keywords": [],
+  "keywords": [
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
